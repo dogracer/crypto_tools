@@ -34,7 +34,7 @@
   "homepage": "https://github.com/dogracer/hodl-totals#readme",
   "license": "MIT",
   "devDependencies": {
-    "@google/clasp": "^2.3.1",
+    "@google/clasp": "^2.4.0",
     "@ni/eslint-config": "^1.0.0",
     "@rollup/plugin-node-resolve": "^13.0.0",
     "@types/google-apps-script": "^1.0.34",
